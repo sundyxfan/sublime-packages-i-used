@@ -1,4 +1,7 @@
 sublime-best-packages
 =====================
 
-1. "package control" [https://sublime.wbond.net/]
+"package control" [https://sublime.wbond.net/]
+
+1. "Markdown Preview"
+1. "SideBarEnhancements" 
