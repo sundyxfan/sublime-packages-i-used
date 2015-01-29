@@ -1,7 +1,7 @@
 sublime-packages-in-used
 ========================
 
-"package control" [https://sublime.wbond.net/]
+"package control" [https://packagecontrol.io/]
 
 1. "Markdown Preview"
 2. "SideBarEnhancements" 
